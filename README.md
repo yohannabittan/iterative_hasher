@@ -1,5 +1,5 @@
 # iterative_hasher
-Quick hashing tool for iterative hashing
+Quick hashing tool for iterative hashing using hashlib
 
 Mode 1 : Hash an input a given number of times
 
